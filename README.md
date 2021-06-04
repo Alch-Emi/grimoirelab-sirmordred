@@ -5,7 +5,7 @@ still under review and may be unstable.  If you're interested in using this
 project for a project, please checkout the upstream repository, unless you
 specifcally want one of the WIP unstable features in development here.
 
-If you are interested in the outstanding PRs, please feel free to  check out the
+If you are interested in the outstanding PRs, please feel free to check out the
 other branches in this repository, or browse the PRs on the upstream's page.
 
 Thanks!
