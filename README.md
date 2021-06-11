@@ -1,6 +1,6 @@
-# CHBS MR Fork #
+# Perceval-OSF MR Fork #
 
-Hello! This is Emi's MR fork of [Tim Visée/chbs][1]. The code on display here is
+Hello! This is Emi's MR fork of [open-rit/perceval-osf][1]. The code on display here is
 still under review and may be unstable.  If you're interested in using this
 project for a project, please checkout the upstream repository, unless you
 specifcally want one of the WIP unstable features in development here.
@@ -12,4 +12,4 @@ Thanks!
 
 💜
 
-[1]: https://gitlab.com/Alch_Emi/chbs
+[1]: https://gitlab.com/open-rit/perceval-osf
