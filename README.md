@@ -1,6 +1,6 @@
-# Perceval PR Fork #
+# SirMordred PR Fork #
 
-Hello! This is Emi's PR fork of [chaoss/grimoirelab-perceval][1]. The code on
+Hello! This is Emi's PR fork of [chaoss/grimoirelab-sirmordred][1]. The code on
 display here is still under review and may be unstable.  If you're interested
 in using this project for a project, please checkout the upstream repository,
 unless you specifcally want one of the WIP unstable features in development
@@ -13,4 +13,4 @@ Thanks!
 
 💜
 
-[1]: https://github.com/chaoss/grimoirelab-perceval
+[1]: https://github.com/chaoss/grimoirelab-sirmordred
